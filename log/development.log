@@ -1,0 +1,21 @@
+Started GET "/" for 127.0.0.1 at 2017-07-05 13:30:20 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /root/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /root/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb (2.1ms)
+Completed 200 OK in 190ms (Views: 4.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-07-05 13:33:28 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /root/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /root/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb (3.8ms)
+Completed 200 OK in 153ms (Views: 7.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-07-05 13:33:32 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /root/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /root/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb (2.9ms)
+Completed 200 OK in 6ms (Views: 4.1ms)
+
+
